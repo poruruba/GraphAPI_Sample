@@ -1,6 +1,7 @@
 # GraphAPI_Sample
 
 <参考URL>  
+  
 Microsoft Azure管理ポータル  
 https://portal.azure.com/#home  
   
